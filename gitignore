@@ -1,0 +1,24 @@
+
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos temporários de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar arquivos compactados
+*.zip
+
+# Ignorar configurações de IDEs
+.vscode/
+.idea/
