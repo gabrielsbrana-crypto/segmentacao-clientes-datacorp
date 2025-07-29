@@ -51,4 +51,4 @@ Aplicar técnicas de **machine learning não supervisionado (clustering)** para 
 ## 📬 Contato
 
 Gabriel Sbrana  
-[LinkedIn](https://www.linkedin.com/) | [E-mail](mailto:seuemail@exemplo.com)
+[LinkedIn]((https://www.linkedin.com/in/sbranagabriel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3JjVCQXSSHak%2BD%2BdbUWXDA%3D%3D)) | [E-mail](mailto:gabrielsbrana13@gmail.com)
